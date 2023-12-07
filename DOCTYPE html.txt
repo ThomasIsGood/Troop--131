@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boy Scout Troop 131</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: #fff;
+            font-size: 24px;
+        }
+        section {
+            margin-top: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Boy Scout Troop 131 Updates</h1>
+    </header>
+
+    <section>
+        <h2>Upcoming Campouts</h2>
+        <ul>
+            <li>March 15-17, 2023 - Pine Ridge Camp</li>
+            <li>April 20-22, 2023 - Lakeview Camp</li>
+            <!-- Add more campout dates as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Troop Leaders</h2>
+        <ul>
+            <li>Scoutmaster: John Doe</li>
+            <li>Assistant Scoutmaster: Jane Smith</li>
+            <!-- Add more troop leaders as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Senior Patrol Leader (SPL) and Assistant Senior Patrol Leader (ASPL)</h2>
+        <ul>
+            <li>SPL: Gabe</li>
+            <li>ASPL: Taigh</li>
+            <!-- Add more leadership roles as needed -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Boy Scout Troop 131</p>
+    </footer>
+</body>
+</html>
